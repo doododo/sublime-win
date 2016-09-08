@@ -9,4 +9,9 @@
         "class": "tab_label",
         "font.size" : 13,
     },
+    {
+        // Tabs
+        "class": "tabset_control",
+        "tab_height": 40,
+    },
 ]

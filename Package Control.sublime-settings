@@ -6,8 +6,10 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Code Snippets Helper",
 		"Emmet",
 		"Git",
+		"OmniMarkupPreviewer",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Sass",

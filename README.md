@@ -9,7 +9,7 @@ console
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/   //如果没有User文件夹自己创建一个
 git clone https://github.com/saybye720/sublime-win.git
 mv sublime-win/* .
-rm -rf sublime-config
+rm -rf sublime-win
 ```
 
 - 到 https://packagecontrol.io/installation 安装 packagecontrol 。这样所有的包会自动安装上。（ ctrl 跟 导引号 来呼叫出 command console ）

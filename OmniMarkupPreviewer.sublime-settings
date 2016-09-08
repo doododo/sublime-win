@@ -1,0 +1,11 @@
+/* bigface 配置 */
+{
+    "browser_command": ["open", "-a", "Google Chrome", "{url}"],
+    "html_template_name": "Evolution Yellow",//预览使用的模板
+    "ignored_renderers": ["CreoleRenderer", "PodRenderer", "RDocRenderer", "TextitleRenderer", "LiterateHaskellRenderer"], //忽略/关闭的标记语言渲染器
+    "mathjax_enabled": false,
+    "renderer_options-MarkdownRenderer": {
+    "extensions": ["extra", "codehilite", "toc", "strikeout", "smarty", "subscript", "superscript"]
+    }
+
+}
